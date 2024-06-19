@@ -27,7 +27,7 @@ Host 192.168.0.2
 Then proceed with these commands:
 
 ```
-cd usr/sbin/
+cd /usr/sbin/
 mv fluksod.lua fluksod.lua.bak
 wget http://public.lunda.be/fluksod.lua
 chmod 0755 fluksod.lua
